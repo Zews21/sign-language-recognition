@@ -1,0 +1,6 @@
+The script assumes that in the this directory(data) there are 2 other 
+directories: /images and /labels
+
+In each of those there are 2 other directories: /train and /test
+
+!!!!  /train  and /test need to be in both /images and /data
